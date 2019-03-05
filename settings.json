@@ -1,0 +1,6 @@
+{
+  "mongoConfig": {
+    "serverUrl": "mongodb://localhost:27017/Devesh_Jain_lab4",
+    "database": "Devesh_Jain_lab4"
+  }
+}
